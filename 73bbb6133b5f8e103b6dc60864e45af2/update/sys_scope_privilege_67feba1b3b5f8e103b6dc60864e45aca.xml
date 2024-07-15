@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="RPT Demo App">73bbb6133b5f8e103b6dc60864e45af2</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>prasad.n</sys_created_by>
+        <sys_created_on>2024-07-15 10:06:27</sys_created_on>
+        <sys_id>67feba1b3b5f8e103b6dc60864e45aca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ResourceSupport</sys_name>
+        <sys_package display_value="RPT Demo App" source="x_rptp_rpt_demo_ap">73bbb6133b5f8e103b6dc60864e45af2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RPT Demo App">73bbb6133b5f8e103b6dc60864e45af2</sys_scope>
+        <sys_update_name>sys_scope_privilege_67feba1b3b5f8e103b6dc60864e45aca</sys_update_name>
+        <sys_updated_by>prasad.n</sys_updated_by>
+        <sys_updated_on>2024-07-15 10:06:27</sys_updated_on>
+        <target_name>ResourceSupport</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="f8500f9b3b5f8e103b6dc60864e45a6d" sys_domain="global" table="u_imp_tmpl_x_rptp_rpt_demo_ap_extend_details" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_short_description</element>
+            <position>0</position>
+            <sys_created_by>prasad.n</sys_created_by>
+            <sys_created_on>2024-07-15 10:12:17</sys_created_on>
+            <sys_id>f0500f9b3b5f8e103b6dc60864e45a6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_rptp_rpt_demo_ap_extend_details" sys_domain="global" view="Default view">f8500f9b3b5f8e103b6dc60864e45a6d</sys_ui_section>
+            <sys_updated_by>prasad.n</sys_updated_by>
+            <sys_updated_on>2024-07-15 10:12:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_description</element>
+            <position>1</position>
+            <sys_created_by>prasad.n</sys_created_by>
+            <sys_created_on>2024-07-15 10:12:17</sys_created_on>
+            <sys_id>f8500f9b3b5f8e103b6dc60864e45a6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_rptp_rpt_demo_ap_extend_details" sys_domain="global" view="Default view">f8500f9b3b5f8e103b6dc60864e45a6d</sys_ui_section>
+            <sys_updated_by>prasad.n</sys_updated_by>
+            <sys_updated_on>2024-07-15 10:12:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>template_import_log.message</element>
+            <position>2</position>
+            <sys_created_by>prasad.n</sys_created_by>
+            <sys_created_on>2024-07-15 10:12:17</sys_created_on>
+            <sys_id>fc500f9b3b5f8e103b6dc60864e45a6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_rptp_rpt_demo_ap_extend_details" sys_domain="global" view="Default view">f8500f9b3b5f8e103b6dc60864e45a6d</sys_ui_section>
+            <sys_updated_by>prasad.n</sys_updated_by>
+            <sys_updated_on>2024-07-15 10:12:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>u_imp_tmpl_x_rptp_rpt_demo_ap_extend_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>prasad.n</sys_created_by>
+            <sys_created_on>2024-07-15 10:12:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f8500f9b3b5f8e103b6dc60864e45a6d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_imp_tmpl_x_rptp_rpt_demo_ap_extend_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="RPT Demo App" source="x_rptp_rpt_demo_ap">73bbb6133b5f8e103b6dc60864e45af2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RPT Demo App">73bbb6133b5f8e103b6dc60864e45af2</sys_scope>
+            <sys_update_name>sys_ui_section_f8500f9b3b5f8e103b6dc60864e45a6d</sys_update_name>
+            <sys_updated_by>prasad.n</sys_updated_by>
+            <sys_updated_on>2024-07-15 10:12:17</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RPT Demo App">73bbb6133b5f8e103b6dc60864e45af2</application>
+        <file_path/>
+        <instance_id>d634b9cd1ba13d9c52a243f4bd4bcb01</instance_id>
+        <instance_name>rptdev02</instance_name>
+        <name>sys_ui_section_f8500f9b3b5f8e103b6dc60864e45a6d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="f8500f9b3b5f8e103b6dc60864e45a6d" sys_domain="global" table="u_imp_tmpl_x_rptp_rpt_demo_ap_extend_details" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>u_short_description</element><position>0</position><sys_created_by>prasad.n</sys_created_by><sys_created_on>2024-07-15 10:12:17</sys_created_on><sys_id>f0500f9b3b5f8e103b6dc60864e45a6f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_rptp_rpt_demo_ap_extend_details" sys_domain="global" view="Default view">f8500f9b3b5f8e103b6dc60864e45a6d</sys_ui_section><sys_updated_by>prasad.n</sys_updated_by><sys_updated_on>2024-07-15 10:12:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_description</element><position>1</position><sys_created_by>prasad.n</sys_created_by><sys_created_on>2024-07-15 10:12:17</sys_created_on><sys_id>f8500f9b3b5f8e103b6dc60864e45a6f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_rptp_rpt_demo_ap_extend_details" sys_domain="global" view="Default view">f8500f9b3b5f8e103b6dc60864e45a6d</sys_ui_section><sys_updated_by>prasad.n</sys_updated_by><sys_updated_on>2024-07-15 10:12:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>template_import_log.message</element><position>2</position><sys_created_by>prasad.n</sys_created_by><sys_created_on>2024-07-15 10:12:17</sys_created_on><sys_id>fc500f9b3b5f8e103b6dc60864e45a6f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_x_rptp_rpt_demo_ap_extend_details" sys_domain="global" view="Default view">f8500f9b3b5f8e103b6dc60864e45a6d</sys_ui_section><sys_updated_by>prasad.n</sys_updated_by><sys_updated_on>2024-07-15 10:12:17</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>u_imp_tmpl_x_rptp_rpt_demo_ap_extend_details</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>prasad.n</sys_created_by><sys_created_on>2024-07-15 10:12:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f8500f9b3b5f8e103b6dc60864e45a6d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_imp_tmpl_x_rptp_rpt_demo_ap_extend_details</sys_name><sys_overrides/><sys_package display_value="RPT Demo App" source="x_rptp_rpt_demo_ap">73bbb6133b5f8e103b6dc60864e45af2</sys_package><sys_policy/><sys_scope display_value="RPT Demo App">73bbb6133b5f8e103b6dc60864e45af2</sys_scope><sys_update_name>sys_ui_section_f8500f9b3b5f8e103b6dc60864e45a6d</sys_update_name><sys_updated_by>prasad.n</sys_updated_by><sys_updated_on>2024-07-15 10:12:17</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1103576847</payload_hash>
+        <record_name>Imp Tmpl X Rptp Rpt Demo Ap Extend Details</record_name>
+        <reverted_from/>
+        <source>77bbb6133b5f8e103b6dc60864e45af6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>prasad.n</sys_created_by>
+        <sys_created_on>2024-07-15 10:12:17</sys_created_on>
+        <sys_id>f0500f9b3b5f8e103b6dc60864e45a72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190b5e0f5420000001</sys_recorded_at>
+        <sys_updated_by>prasad.n</sys_updated_by>
+        <sys_updated_on>2024-07-15 10:12:17</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>78500f9b3b5f8e103ea3b18f93cdc471</update_guid>
+        <update_guid_history>78500f9b3b5f8e103ea3b18f93cdc471:1103576847</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>prasad.n</sys_created_by>
+        <sys_created_on>2024-07-15 10:13:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>077e0d73b6264e60805d1fa0826394e1</sys_id>
+        <sys_metadata>f8500f9b3b5f8e103b6dc60864e45a6d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_imp_tmpl_x_rptp_rpt_demo_ap_extend_details</sys_name>
+        <sys_package display_value="RPT Demo App" source="x_rptp_rpt_demo_ap">73bbb6133b5f8e103b6dc60864e45af2</sys_package>
+        <sys_parent display_value="">2050cb9b3b5f8e103b6dc60864e45ae3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="RPT Demo App">73bbb6133b5f8e103b6dc60864e45af2</sys_scope>
+        <sys_scope_delete display_value="">062e207ca81c4f9380bd4ced1543b609</sys_scope_delete>
+        <sys_update_name>sys_ui_section_f8500f9b3b5f8e103b6dc60864e45a6d</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_f8500f9b3b5f8e103b6dc60864e45a6d">f0500f9b3b5f8e103b6dc60864e45a72</sys_update_version>
+        <sys_updated_by>prasad.n</sys_updated_by>
+        <sys_updated_on>2024-07-15 10:13:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
